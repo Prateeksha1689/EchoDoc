@@ -1,0 +1,11 @@
+groq
+SpeechRecognition
+pyaudio
+gTTS
+elevenlabs
+pydub
+playsound
+gradio
+transformers
+deep-translator
+gradio-client

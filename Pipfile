@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+groq = "*"
+speechrecognition = "*"
+pyaudio = "*"
+gtts = "*"
+elevenlabs = "*"
+pydub = "*"
+playsound = "*"
+gradio = "*"
+transformers = "*"
+gradio-client = "*"
+deep-translator = "*"
+
+[dev-packages]
